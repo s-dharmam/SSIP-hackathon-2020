@@ -1,14 +1,22 @@
-# SSIP-hackathon-2020
+# SSIP-hackathon-2020  
 
-This repository contains various attempts made during SSIP(Student Start-up & Innovation Policy) hackathon to solve fake news detection problem. 
 
-machine learning models and thier accuracy
-Multinomial naive bayes - 97%
-Random ForestClassifier - 83%
-Logistic Regression - 98%
-Convolutional Neural Network - 93%
+This repository contains various attempts made during SSIP(Student Start-up & Innovation Policy) hackathon to solve fake news detection problem.   
 
-We deployed Multinomial naive bayes classifier using flask.
+
+machine learning models and thier accuracy  
+
+Multinomial naive bayes - 97%  
+
+Random ForestClassifier - 83%  
+
+Logistic Regression - 98%  
+
+Convolutional Neural Network - 93%  
+
+
+We deployed Multinomial naive bayes classifier using flask.  
+
 ## How to run the Project? 
 
 1. Download the Repo and go to the respective folder and start the Command Line Interface in the "Fake News Detection using naive bayes classifier" folder.
