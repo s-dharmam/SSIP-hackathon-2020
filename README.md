@@ -44,5 +44,4 @@ python deploy.py
 
 This will start the development server at http://127.0.0.1:5000/ and you can visit the URL on the Browser and check out the App. 
 
-Enjoy!
 
